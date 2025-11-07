@@ -30,6 +30,6 @@ I believe a great setup inspires great work. I've spent a lot of time crafting m
 
 ### 📫 How to Reach Me
 
-* **LinkedIn:** `[My LinkedIn Profile URL](https://www.linkedin.com/in/gustavogfranca/)`
+* **LinkedIn:** [My LinkedIn Profile URL](https://www.linkedin.com/in/gustavogfranca/)
 
 ---   
