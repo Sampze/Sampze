@@ -1,8 +1,12 @@
-## Hi there 👋
 
+<div align="center" no> 
+  
+<h1> Hello There </h1> 
+  
+</div>
+<p>
 Welcome to my digital workbench! I'm a second-year Computer Science student, and I'm excited to document my journey here. I have a lot to learn, but I'm passionate about building, creating, and solving problems.
-
----
+<hr></hr></p>
 
 ### 🌱 What I'm Currently Learning
 
@@ -20,7 +24,7 @@ I believe a great setup inspires great work. I've spent a lot of time crafting m
 * **Code Editor:** `Intellij && Nvim`
 * **Main Hardware:** `AlienWare m15 R4`
 * **Peripherals:** `Keyboard: Logitech MX Mechanical Mini, Mouse: Logitech MX Master 3S, Monitor: Samsung Odyssey G5`
-* **Productivity:** `Youtrack for notes and keep track of projects`
+* **Productivity:** `Youtrack for notes and keep track of projects and courses`
 
 ### 🎯 My Goals for this Year
 
@@ -28,8 +32,11 @@ I believe a great setup inspires great work. I've spent a lot of time crafting m
 * 🚀 Build and deploy my first full-stack web application.
 * 🤝 Contribute to my first open-source project.
 
-### 📫 How to Reach Me
-
-* **LinkedIn:** [My LinkedIn Profile URL](https://www.linkedin.com/in/gustavogfranca/)
-
----   
+<!-- <div align="center"> -->
+<div style="text-align: center;" align="center" position="top: 100;">
+  <p>📫 How to Reach Me
+    
+  <b> [My LinkedIn Profile](https://www.linkedin.com/in/gustavogfranca/) </b>
+  </p>
+  <img src="./wave(3).svg"/>
+  </div>
