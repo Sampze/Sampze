@@ -23,8 +23,7 @@ I believe a great setup inspires great work. I've spent a lot of time crafting m
 * **OS:** `Arch Linux + Hyperland `
 * **Code Editor:** `Intellij && Nvim`
 * **Main Hardware:** `AlienWare m15 R4`
-* **Peripherals:** `Keyboard: Logitech MX Mechanical Mini, Mouse: Logitech MX Master 3S, Monitor: Samsung Odyssey G5`
-* **Productivity:** `Youtrack for notes and keep track of projects and courses`
+
 
 ### 🎯 My Goals for this Year
 
